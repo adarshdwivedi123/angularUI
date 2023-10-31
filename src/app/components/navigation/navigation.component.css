@@ -1,0 +1,141 @@
+.side-drawer {
+  width: 200px;
+  height: 900px;
+  margin-top: 10px;
+  background-color: white;
+  border-radius: 10px;
+
+}
+
+.text-color {
+  color: #9A9A9E;
+}
+
+.logo {
+  left: 240px;
+  width: 200px;
+  height: 80px;
+  opacity: 1;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.seller-box {
+  width: 260px;
+  height: 80px;
+  background-color: #88c2bb;
+  margin-left: 40px;
+  border-radius: 10px;
+}
+
+.search-bar {
+  display: flex;
+  margin-left: 40px;
+  width: 50%;
+  padding-top: 20px;
+  padding-left: 77px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.search-name {
+  width: 350px;
+  height: 16px;
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #9A9A9E;
+  font: normal normal medium 12px/14px Gilroy;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  padding-top: 10px;
+}
+
+
+.icon-style {
+  margin-right: 26px;
+  margin-left: 44px;
+  margin-top: 20px;
+}
+
+.example-card {
+  max-width: 224px;
+  height: 126px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+
+
+.background-image {
+  background-image: url('/assets/background1.png');
+  background-size: cover;
+  background-position: center;
+  width: 244px;
+  height: 126px;
+  /* Adjust the height as needed */
+  position: relative;
+  /* Required for absolute positioning of the foreground image */
+}
+
+.foreground-image {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  /* Center the image */
+  max-width: 48px;
+  max-height: 48px;
+  top: 54%;
+  left: 18%;
+
+}
+
+.foreground-image2 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  /* Center the image */
+  max-width: 48px;
+  max-height: 48px;
+  top: 54%;
+  left: 18%;
+
+}
+
+.background-image2 {
+  background-image: url('/assets/background2.png');
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  width: 244px;
+  height: 126px;
+  /* Adjust the height as needed */
+  position: relative;
+  /* Required for absolute positioning of the foreground image */
+}
+
+
+.foreground-image3 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  /* Center the image */
+  max-width: 48px;
+  max-height: 48px;
+  top: 54%;
+  left: 18%;
+
+}
+
+.background-image3 {
+  background-image: url('/assets/background1.png');
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  width: 244px;
+  height: 126px;
+  /* Adjust the height as needed */
+  position: relative;
+  /* Required for absolute positioning of the foreground image */
+}

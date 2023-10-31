@@ -1,0 +1,59 @@
+.icon-styling {
+  padding-left: 10px;
+  height: 23.52px;
+  width: 21.77;
+}
+
+.card {
+  max-width: 630px;
+  height: 550px;
+  margin-left: 240px;
+  margin-top: -900px;
+  border-radius: 10px;
+  padding-left: 72px;
+}
+
+.card-img {
+  width: 560px;
+  height: 306px;
+  border-radius: 10px;
+  padding-left: 30px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card-header-image {
+  background-image: url('/assets/backshort1.png');
+  border-radius: 10px;
+  margin-left: 20px;
+  background-size: cover;
+}
+
+.action-icon {
+  display: flex;
+  padding-left: 20px;
+}
+
+
+
+.card2 {
+  max-width: 630px;
+  height: 550px;
+  margin-left: 240px;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding-left: 72px;
+}
+
+
+.card3 {
+  align-items: center;
+  max-width: 630px;
+  margin-left: 240px;
+  margin-top: 20px;
+  display: flex;
+  border-radius: 10px;
+
+
+}
